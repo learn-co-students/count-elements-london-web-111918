@@ -1,7 +1,6 @@
 ---
-tags: arrays, iteration, conditionals
+tags: arrays, iteration, conditionals, todo
 languages: ruby
-type: TODO
 resources: 0
 ---
 ## Instructions:
