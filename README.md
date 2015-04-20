@@ -6,7 +6,7 @@ resources: 0
 
 ## Objectives
 
-Count the elements in an Array by returning a hash whose keys are the elements and values the number of times they occur.
+Count the elements in an Array by returning a hash whose keys are the elements and values the number of times they occur. Your goal is to create a [histogram](http://en.wikipedia.org/wiki/Histogram).
   
 ## Example
 
