@@ -2,7 +2,7 @@ tags:
   - arrays
   - iteration
   - conditionals
-  - todo
+  - hash
 languages:
   - ruby
 resources: 0
