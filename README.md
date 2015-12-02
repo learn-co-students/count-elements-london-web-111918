@@ -23,3 +23,5 @@ count_elements(animals)
 * As you iterate through the array, you will need to turn the string array elements into string hash keys. First, check to see if a particular key is already present in the hash. If it is, increment the value that is it's count. If it isn't, add it as a key to your hash with a value of `1`. 
 * Use the `+=` method to increment the count that constitutes the value of each key every time you encounter another repetition of that string in the array you are iterating over. 
 
+
+<a href='https://learn.co/lessons/count-elements' data-visibility='hidden'>View this lesson on Learn.co</a>
