@@ -24,4 +24,4 @@ count_elements(animals)
 * Use the `+=` method to increment the count that constitutes the value of each key every time you encounter another repetition of that string in the array you are iterating over. 
 
 
-<a href='https://learn.co/lessons/count-elements' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/count-elements' title='Iteration and Building Hashes: Element Count'>Iteration and Building Hashes: Element Count</a> on Learn.co and start learning to code for free.</p>
